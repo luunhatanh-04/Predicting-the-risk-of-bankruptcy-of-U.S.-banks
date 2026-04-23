@@ -1,8 +1,8 @@
 # Predicting-the-risk-of-bankruptcy-of-U.S.-banks
-🏦 Phân tích và Dự đoán Phá sản Ngân hàng (FDIC Bank Bankruptcy Prediction)
+ Phân tích và Dự đoán Phá sản Ngân hàng (FDIC Bank Bankruptcy Prediction)
 Dự án này ứng dụng Khoa học Dữ liệu (Data Science) và các mô hình Học máy (Machine Learning) để dự đoán nguy cơ phá sản của các ngân hàng dựa trên dữ liệu tài chính từ tổ chức FDIC. Mục tiêu trọng tâm là xây dựng một hệ thống đánh giá rủi ro mạnh mẽ, kết hợp giữa kỹ thuật Ensemble Learning và khả năng giải thích mô hình (Model Explainability).
 
-🧠 Quy trình Thực hiện và Cơ sở Lý thuyết
+ Quy trình Thực hiện và Cơ sở Lý thuyết
 Dự án được chia thành các giai đoạn chính, bao gồm từ việc xử lý dữ liệu thô cho đến khi xuất ra hệ thống cảnh báo rủi ro hoàn chỉnh.
 
 1. Khai phá và Tiền xử lý dữ liệu (EDA & Data Preprocessing)
