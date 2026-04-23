@@ -1,5 +1,6 @@
 # Predicting-the-risk-of-bankruptcy-of-U.S.-banks
 Dự án này ứng dụng Khoa học Dữ liệu (Data Science) và các mô hình Học máy (Machine Learning) để dự đoán nguy cơ phá sản của các ngân hàng dựa trên dữ liệu tài chính từ FDIC. Mục tiêu là xây dựng một hệ thống cảnh báo sớm, kết hợp giữa sức mạnh dự đoán của các mô hình Ensemble và khả năng giải thích mô hình (Model Explainability).
+
 Dự án bao gồm các tệp dữ liệu, mã nguồn phân tích và mô hình đã được huấn luyện:
 1. Mã nguồn (Jupyter Notebooks)
 fdic_banks.ipynb: Quá trình Khai phá dữ liệu (EDA - Exploratory Data Analysis), xử lý giá trị thiếu, làm sạch dữ liệu và tạo ra các biến mới (Feature Engineering) từ tập dữ liệu thô của FDIC.
